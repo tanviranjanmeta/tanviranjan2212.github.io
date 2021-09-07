@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Tanvi Ranjan"
   avatar           : "profile.png"
-  bio              : "Applied Math PhD student"
+  bio              : "Applied Maths PhD student"
   location         : "Cambridge, MA"
   employer         :
   pubmed           : #”https://scholar.google.com/citations?user=SwOyfkkAAAAJ&hl=en&oi=ao"
@@ -175,15 +175,6 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
