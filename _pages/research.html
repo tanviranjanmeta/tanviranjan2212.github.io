@@ -5,17 +5,11 @@ permalink: /research/
 author_profile: true
 ---
 
-{% if site.talkmap_link == true %}
+{% include base_path %}
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">
-  
-  I study how the brain learns to perform new movements. To this end, I record kinematic behaviour of study participants as they learn to perform new movements in different ways. My hope is to be able to apply what I learn about motor learning in rehabilitation of patients with impaired motor function.
+ I study how the brain learns to perform new movements. To this end, I record kinematic behaviour of study participants as they learn to perform new movements in different ways. My hope is to be able to apply what I learn about motor learning in rehabilitation of patients with impaired motor function.
   
   Here is a short summary of my research projects
-  
-</a></p>
-
-{% endif %}
 
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
