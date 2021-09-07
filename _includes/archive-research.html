@@ -47,7 +47,6 @@
          <p class="page__meta">{{ site.data.ui-text[site.locale].date_label | default: "" }}<time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
 
-    <!-- rick mod -->
     {% if post.video %}
       <div class="youtube-wrapper" style="position: relative; width: 100%; padding:1em 1em .5em 0px">
         <iframe src={{ post.video }} frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
