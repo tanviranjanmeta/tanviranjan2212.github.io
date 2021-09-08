@@ -4,8 +4,8 @@ title: "News and updates"
 excerpt: ""
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /news/
+  - /news.html
 ---
 [Sep, 2021]: Started my final PhD project on prediction plasticity in the motor system
 
