@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Knitting"
+excerpt: "I knitted 20 hats in 2020 for the <a href="https://www.brm.org/">Boston Rescue Mission</a> <br/><img src='/images/knitting20.jpeg'>"
 collection: portfolio
 ---
 
