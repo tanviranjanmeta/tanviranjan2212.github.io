@@ -1,11 +1,11 @@
 ---
-permalink: /news/
-title: "News and updates"
-author_profile: true
 layout: archive
+title: "News and updates"
+permalink: /news/
+author_profile: true
 ---
 
-{% include base_path %}
+Hi
 
 Sep, 2021: Started my final PhD project on prediction plasticity in the motor system
 
