@@ -4,14 +4,9 @@ main:
   - title: "Research"
     url: /research/
     
-  - title: "Hobbies"
-    url: /portfolio/
-    
   - title: "News"
     url: /news/
     
   - title: "CV"
     url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+
