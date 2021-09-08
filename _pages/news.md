@@ -5,7 +5,7 @@ author_profile: true
 layout: archive
 ---
 
-[Sep, 2021]: Started my final PhD project on prediction plasticity in the motor system
+Sep, 2021: Started my final PhD project on prediction plasticity in the motor system
 
 [May - Aug 2021]: I am doing a research internship with [Facebook Reality Labs](https://tech.fb.com/ai/) on designing models for the control of neural interfaces
 
