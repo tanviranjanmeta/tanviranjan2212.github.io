@@ -3,8 +3,6 @@ permalink: /news/
 title: "News and updates"
 author_profile: true
 layout: archive
-redirect_from:
-  - /news
 ---
 
 [Sep, 2021]: Started my final PhD project on prediction plasticity in the motor system
